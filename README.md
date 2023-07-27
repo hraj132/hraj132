@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Raj</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h3 align="center">A passionate programmer from India, studying @IIIT Allahabad</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/b1/3c/17/b13c1750619d9fc95b79097c2898bd49.gif">
 
 
