@@ -8,11 +8,12 @@ Software Engineer | Distributed Systems | AI/LLM Applications | Cloud Infrastruc
 Building large-scale backend systems, AI platforms, and cloud-native applications.
 </p>
 
-<img align="right" alt="coding" width="400"
-src="https://i.pinimg.com/originals/b1/3c/17/b13c1750619d9fc95b79097c2898bd49.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hraj132&label=Profile%20Views&color=0e75b6&style=flat" alt="hraj132" />
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    alt="snake animation"
+    width="800"
+  />
 </p>
 
 ## 🚀 About Me
